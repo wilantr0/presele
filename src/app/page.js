@@ -73,7 +73,7 @@ export default function Home() {
         <div className="grid grid-flow-col grid-rows-4 gap-4">
           <Nota asignatura={"Lengua Castellana"} onChange={handleNotaChange} />
           <Nota asignatura={"Lengua Extranjera"} onChange={handleNotaChange} />
-          <Nota asignatura={"Lengua Cooficial"} onChange={handleNotaChange} />
+          <Nota asignatura={"Lengua Cooficial *"} onChange={handleNotaChange} />
           <Nota asignatura={"Historia de España/Filosofia"} onChange={handleNotaChange} />
           <Nota asignatura={"Oligatoria de modalidad"} onChange={handleNotaChange} />
           <NotaOpt asignatura={"Optativa 1"} onChange={handleNotaChange} />
@@ -81,7 +81,7 @@ export default function Home() {
           <NotaOpt asignatura={"Optativa 3"} onChange={handleNotaChange} />
           <Nota asignatura={"Bachillerato"} onChange={handleNotaChange} />
 
-          <div className="flex justify-center items-center self-end mb-0 h-14 w-1/2 m-auto bg-secondary text-white font-semibold p-2 rounded-xl">
+          <div className="flex justify-center items-center self-end mb-0 h-14 w-1/2 m-auto bg-secondary text-white text-2xl font-semibold p-2 rounded-xl">
             {notaFinal !== null ? notaFinal : "_,___"}
           </div>
           <button onClick={calcularNota} className="flex justify-center items-center mb-0 h-14 w-3/4 m-auto bg-primary font-bold text-2xl p-2 rounded-xl">
@@ -90,26 +90,20 @@ export default function Home() {
           <div></div>
         </div>
       </div>
-      <div className="flex flex-row justify-around items-center w-5/6 mt-6">
-        <div className="w-1/4 flex flex-col items-center justify-center p-6 gap-4">
+      <div className="grid grid-flow-col grid-cols-3 grid-rows-2 gap-4 w-5/6 mt-6 ">
           <Link href="/nota" className="flex justify-center items-center mt-6 w-full bg-primary font-bold text-2xl p-4 rounded-xl">
             Buscar opciones<br /> por nota de corte
           </Link>
           <p className="text-justify">Busca grados en todas las universidades de españa con tu nota de corte, filtrando por comunidades, por areas de conocimiento o por grados.</p>
-        </div>
 
-        <div className="w-1/4 flex flex-col items-center justify-center p-6 gap-4">
           <Link href="/universidad" className="flex justify-center items-center mt-6 w-full bg-primary font-bold text-2xl p-4 rounded-xl">
             Buscar opciones<br /> por universidad
           </Link>
           <p className="text-justify">Busca toda la informacion sobre los grados que ofrece cada universidad, informacion relevante y sin rodeos.</p>
-        </div>
-        <div className="w-1/4 flex flex-col items-center justify-center p-6 gap-4">
           <Link href="/grado" className="flex justify-center items-center mt-6 w-full bg-primary font-bold text-2xl p-4 rounded-xl">
             Buscar opciones<br /> por grado
           </Link>
           <p className="text-justify">Si tienes claro que grado quieres hacer pero no sabes donde lo puedes cursar, este es tu sitio! Todas las universidades que ofrecen tu grado y con comparaciones a tu gusto.</p>
-        </div>
       </div>
     </div>
   );

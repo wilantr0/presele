@@ -2,6 +2,7 @@ import { useState } from "react";
 
 export default function NotaOpt({ asignatura, className = "", onChange }) {
   const [ponderacion, setPonderacion] = useState();
+  console.log(ponderacion)
   return (
     <label className="flex flex-col justify-start items-start">
       <span className="w-full flex flex-row justify-between items-center mb-1">
