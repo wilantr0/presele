@@ -5,15 +5,17 @@ export default function NotaOpt({ asignatura, className = "", onChange }) {
   console.log(ponderacion)
   return (
     <label className="flex flex-col justify-start items-start">
-      <span className="w-full flex flex-row justify-between items-center mb-1">
+      <span className="w-full flex flex-row justify-between items-center mb-1 text-foreground">
         {asignatura}
-        <ToggleSegment onChange={(value) => {
-          setPonderacion(value);
-          onChange(`${asignatura}-ponderacion`, value);
-        }} />
+        <ToggleSegment
+          onChange={(value) => {
+            setPonderacion(value);
+            onChange(`${asignatura}-ponderacion`, value);
+          }}
+        />
       </span>
       <input
-        className={`bg-gray-300 p-4 rounded-xl w-full outline-none font-semibold ${className}`}
+        className={`bg-gray-200 p-4 rounded-xl w-full outline-none font-semibold text-foreground ${className}`}
         type="number"
         name={asignatura}
         min="0"
@@ -41,7 +43,7 @@ function ToggleSegment({ onChange }) {
           key={option}
           onClick={() => handleSelect(option)}
           className={`px-4 py-2 rounded-md text-xs font-light transition-all 
-            ${selected === option ? "bg-blue-500 text-white" : "text-gray-700"}`}
+            ${selected === option ? "bg-primary text-white" : "text-foreground"}`}
         >
           {option}
         </button>
