@@ -3,11 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-  --primary: #b0f28c;
-  --secondary: #17b27c;
-  --accent: #cc42cd;
+  --background: #f5f5f5; /* Fondo */
+  --foreground: #212121; /* Texto principal */
+  --primary: #4caf50; /* Color primario */
+  --secondary: #ffca28; /* Color secundario */
+  --accent: #e91e63; /* Color de acento */
+  --gray-200: #e5e7eb; /* Gris claro */
+  --gray-300: #d1d5db; /* Gris medio */
+  --gray-700: #374151; /* Gris oscuro */
 }
 
 body {
