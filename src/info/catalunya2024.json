@@ -1,0 +1,5611 @@
+[
+  {
+    "codi": "41029",
+    "Grau": "Administració d'Empreses i Gestió de la Innovació \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "7.480",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41036",
+    "Grau": "Administració d'Empreses i Gestió de la Innovació (docència en Anglès)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "7.206",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41041",
+    "Grau": "Administració d'Empreses i Gestió de la Innovació / Màrqueting i Comunitats Digitals \"Tecnocampus\" (simultaneïtat)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "8.440",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41035",
+    "Grau": "Administració d'Empreses i Gestió de la Innovació / Turisme i Gestió del Lleure \"Tecnocampus\" (simultaneïtat)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11033",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.636",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41008",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.316",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71063",
+    "Grau": "Administració i Direcció d'Empreses \"IGEMA\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21014",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.138",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.333"
+  },
+  {
+    "codi": "21099",
+    "Grau": "Administració i Direcció d'Empreses (docència en Anglès)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.416",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81003",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.446",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61069",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "8.464",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61003",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.634",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91042",
+    "Grau": "Administració i Direcció d'Empreses (Campus Manresa)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.333"
+  },
+  {
+    "codi": "71002",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "7.866",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71004",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "5.378",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91003",
+    "Grau": "Administració i Direcció d'Empreses",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41034",
+    "Grau": "Dret / Administració i Direcció d'Empreses - Economia (agrupació de simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "12.406",
+    "mes25": "5.000",
+    "titulats": "6.950",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11064",
+    "Grau": "Administració i Direcció d'Empreses / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.406",
+    "mes25": "5.000",
+    "titulats": "7.350",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21098",
+    "Grau": "Administració i Direcció d'Empreses / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.506",
+    "mes25": "5.000",
+    "titulats": "6.180",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81053",
+    "Grau": "Administració i Direcció d'Empreses / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.148",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61035",
+    "Grau": "Administració i Direcció d'Empreses / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "10.054",
+    "mes25": "5.000",
+    "titulats": "7.420",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71055",
+    "Grau": "Administració i Direcció d'Empreses / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona / Reus",
+    "Universitat": "URV",
+    "PAU": "9.666",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81052",
+    "Grau": "Administració i Direcció d'Empreses / Economia (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.188",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61070",
+    "Grau": "Administració i Direcció d'Empreses / Enginyeria en Organització Industrial i Logística (simultaneïtat)",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "8.648",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81046",
+    "Grau": "Administració i Direcció d'Empreses / Enginyeria en Tecnologies Industrials (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.622",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61036",
+    "Grau": "Administració i Direcció d'Empreses / Enginyeria Informàtica (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.263",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71053",
+    "Grau": "Administració i Direcció d'Empreses / Finances i Comptabilitat (simultaneïtat)",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "10.777",
+    "mes25": "5.375",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71079",
+    "Grau": "Administració i Direcció d'Empreses / Màrqueting \"ESIC\" (simultaneïtat)",
+    "Localització de l'estudi": "Reus / Barcelona",
+    "Universitat": "URV",
+    "PAU": "9.930",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71080",
+    "Grau": "Administració i Direcció d'Empreses / Màrqueting \"ESIC\" (simultaneïtat)",
+    "Localització de l'estudi": "Tortosa / Barcelona",
+    "Universitat": "URV",
+    "PAU": "7.658",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11066",
+    "Grau": "Administració i Direcció d'Empreses / Matemàtiques (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "12.086",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11095",
+    "Grau": "Administració i Direcció d'Empreses / Química (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.724",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11090",
+    "Grau": "Administració i Direcció d'Empreses / Sociologia (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.022",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61077",
+    "Grau": "Administració i Direcció d'Empreses i Transformació de Negocis \"Centre Universitari EAE\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11001",
+    "Grau": "Antropologia Social i Cultural",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61053",
+    "Grau": "Administració i Direcció d'Empreses / Turisme (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.222",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71003",
+    "Grau": "Anglès",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.250",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11029",
+    "Grau": "Arqueologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21146",
+    "Grau": "Arqueologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71049",
+    "Grau": "Antropologia i Evolució Humana (virtual o semipresencial)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV / UOC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11096",
+    "Grau": "Arqueologia / Història (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.451",
+    "mes25": "7.375",
+    "titulats": "8.045",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21152",
+    "Grau": "Antropologia Social i Cultural",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "31016",
+    "Grau": "Arquitectura Tècnica i Edificació",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "8.006",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81020",
+    "Grau": "Arquitectura Tècnica i Edificació",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.218",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81065",
+    "Grau": "Arquitectura Tècnica i Edificació (semipresencial)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.614",
+    "mes25": "5.000",
+    "titulats": "7.800",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61016",
+    "Grau": "Arquitectura Tècnica i Edificació",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.890",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31078",
+    "Grau": "Arquitectura",
+    "Localització de l'estudi": " Estudis d'",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "9.516",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "81057",
+    "Grau": "Arquitectura",
+    "Localització de l'estudi": " Estudis d'",
+    "Universitat": "Girona",
+    "PAU": "UdG",
+    "mes25": "9.490",
+    "titulats": "5.000",
+    "mes45": "7.010",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "71087",
+    "Grau": "Arquitectura",
+    "Localització de l'estudi": " Estudis d'",
+    "Universitat": "Reus",
+    "PAU": "URV",
+    "mes25": "8.910",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31079",
+    "Grau": "Arquitectura",
+    "Localització de l'estudi": " Estudis d'",
+    "Universitat": "Sant Cugat del Vallès",
+    "PAU": "UPC",
+    "mes25": "9.844",
+    "titulats": "5.000",
+    "mes45": "6.900",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "81045",
+    "Grau": "Arts Escèniques \"ERAM\"",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "5.174",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21020",
+    "Grau": "Arts i Disseny \"Massana\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91063",
+    "Grau": "Audiologia General",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11099",
+    "Grau": "Belles Arts",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.280",
+    "mes25": "5.000",
+    "titulats": "6.397",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91059",
+    "Grau": "Belles Arts \"BAU\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91917",
+    "Grau": "Bioinformàtica (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona / Cerdanyola del Vallès",
+    "Universitat": "UPC / UB / UAB / UPF",
+    "PAU": "10.738",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11002",
+    "Grau": "Biologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.030",
+    "mes25": "5.000",
+    "titulats": "6.800",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "21009",
+    "Grau": "Biologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.936",
+    "mes25": "5.063",
+    "titulats": "7.140",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81006",
+    "Grau": "Biologia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.822",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91018",
+    "Grau": "Biologia",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81047",
+    "Grau": "Biologia / Biotecnologia (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "11.420",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91058",
+    "Grau": "Biomedicina",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "10.726",
+    "mes25": "5.000",
+    "titulats": "7.430",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11003",
+    "Grau": "Bioquímica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.608",
+    "mes25": "5.000",
+    "titulats": "7.260",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81048",
+    "Grau": "Biologia / Ciències Ambientals (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.484",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21008",
+    "Grau": "Biologia Ambiental",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.744",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41001",
+    "Grau": "Biologia Humana",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.823",
+    "mes25": "5.000",
+    "titulats": "7.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11004",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.793",
+    "mes25": "5.000",
+    "titulats": "6.600",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21011",
+    "Grau": "Bioquímica",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.342",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71005",
+    "Grau": "Bioquímica i Biologia Molecular",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "10.980",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71054",
+    "Grau": "Bioquímica i Biologia Molecular / Biotecnologia (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "12.417",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21012",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.408",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81007",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.508",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61005",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "10.128",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71006",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "10.514",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91004",
+    "Grau": "Biotecnologia",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71056",
+    "Grau": "Biotecnologia / Enginyeria Informàtica (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "10.753",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11109",
+    "Grau": "Ciberseguretat \"ENTI\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "6.242",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31089",
+    "Grau": "Ciència i Enginyeria de Dades",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "12.428",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61040",
+    "Grau": "Ciència i Producció Animal / Veterinària (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.252",
+    "mes25": "5.125",
+    "titulats": "8.130",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21021",
+    "Grau": "Ciència i Tecnologia dels Aliments",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.194",
+    "mes25": "5.000",
+    "titulats": "6.210",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61008",
+    "Grau": "Ciència i Tecnologia dels Aliments",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11054",
+    "Grau": "Ciència i Tecnologia dels Aliments",
+    "Localització de l'estudi": "Santa Coloma de Gramenet",
+    "Universitat": "UB",
+    "PAU": "8.524",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21013",
+    "Grau": "Ciència Política i Gestió Pública",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.292",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21104",
+    "Grau": "Ciència Política i Gestió Pública / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.090",
+    "mes25": "5.094",
+    "titulats": "6.550",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21125",
+    "Grau": "Ciència Política i Gestió Pública / Sociologia (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.584",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21137",
+    "Grau": "Ciència",
+    "Localització de l'estudi": " Tecnologia i Humanitats",
+    "Universitat": "Cerdanyola del Vallès",
+    "PAU": "UAB",
+    "mes25": "7.116",
+    "titulats": "5.000",
+    "mes45": "6.800",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "21131",
+    "Grau": "Ciències",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.154",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11005",
+    "Grau": "Ciències Ambientals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.232",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21147",
+    "Grau": "Ciències Ambientals",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.686",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81008",
+    "Grau": "Ciències Ambientals",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "6.894",
+    "mes25": "5.813",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21151",
+    "Grau": "Ciències Ambientals / Geologia (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.118",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11006",
+    "Grau": "Ciències Biomèdiques",
+    "Localització de l'estudi": "Barcelona / L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "12.304",
+    "mes25": "5.500",
+    "titulats": "7.700",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21010",
+    "Grau": "Ciències Biomèdiques",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "12.431",
+    "mes25": "5.000",
+    "titulats": "8.200",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61004",
+    "Grau": "Ciències Biomèdiques",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.767",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11113",
+    "Grau": "Ciències Culinàries i Gastronòmiques \"CETT\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71086",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport \"EUSES\"",
+    "Localització de l'estudi": "Amposta",
+    "Universitat": "URV",
+    "PAU": "5.602",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11007",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.309",
+    "mes25": "5.438",
+    "titulats": "6.530",
+    "mes45": "5.333"
+  },
+  {
+    "codi": "61071",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport",
+    "Localització de l'estudi": "La Seu d'Urgell",
+    "Universitat": "UdL",
+    "PAU": "9.191",
+    "mes25": "5.000",
+    "titulats": "8.290",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61007",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "9.498",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41038",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "8.180",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81082",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport \"EUSES\"",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "5.232",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91001",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "6.866",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61038",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Educació Primària (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "9.404",
+    "mes25": "5.000",
+    "titulats": "6.960",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91055",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Educació Primària (menció en Educació Física) (simultaneïtat)",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81086",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia \"EUSES\" (simultaneïtat)",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "6.686",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71088",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia \"EUSES\" (simultaneïtat)",
+    "Localització de l'estudi": "Amposta / Tortosa",
+    "Universitat": "URV",
+    "PAU": "5.871",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61039",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.122",
+    "mes25": "5.000",
+    "titulats": "7.470",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41037",
+    "Grau": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia \"Tecnocampus\" (simultaneïtat)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "7.710",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21117",
+    "Grau": "Ciències de l'Antiguitat",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11077",
+    "Grau": "Ciències del Mar",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.228",
+    "mes25": "8.813",
+    "titulats": "8.010",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41009",
+    "Grau": "Ciències Empresarials - Management",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.580",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31095",
+    "Grau": "Ciències i Tecnologies Aplicades a l'Esport i al Fitnes \"EUNCET\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31096",
+    "Grau": "Ciències i Tecnologies del Mar",
+    "Localització de l'estudi": "Castelldefels / Barcelona / Vilanova i la Geltrú",
+    "Universitat": "UPC",
+    "PAU": "6.244",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11008",
+    "Grau": "Ciències Polítiques i de l'Administració",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.530",
+    "mes25": "5.000",
+    "titulats": "6.936",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41010",
+    "Grau": "Ciències Polítiques i de l'Administració",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "8.360",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81010",
+    "Grau": "Ciències Polítiques i de l'Administració",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.032",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11065",
+    "Grau": "Ciències Polítiques i de l'Administració / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.452",
+    "mes25": "5.563",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81054",
+    "Grau": "Ciències Polítiques i de l'Administració / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.408",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11105",
+    "Grau": "Cinematografia \"ESCAC\"",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81011",
+    "Grau": "Comptabilitat i Finances",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.673",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21084",
+    "Grau": "Comptabilitat i Finances",
+    "Localització de l'estudi": "Sabadell",
+    "Universitat": "UAB",
+    "PAU": "8.612",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11097",
+    "Grau": "Comunicació Audiovisual",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.090",
+    "mes25": "5.938",
+    "titulats": "7.350",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41002",
+    "Grau": "Comunicació Audiovisual",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.614",
+    "mes25": "7.813",
+    "titulats": "6.850",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21085",
+    "Grau": "Comunicació Audiovisual",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.520",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71007",
+    "Grau": "Comunicació Audiovisual",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "9.232",
+    "mes25": "6.125",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91006",
+    "Grau": "Comunicació Audiovisual",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11098",
+    "Grau": "Comunicació Audiovisual / Gestió d'Informació i Documentació Digital (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.276",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81005",
+    "Grau": "Comunicació Audiovisual i Multimèdia \"ERAM\"",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81067",
+    "Grau": "Comunicació Audiovisual i Multimèdia \"ERAM\" (docència en Anglès)",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81068",
+    "Grau": "Comunicació Cultural",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.667"
+  },
+  {
+    "codi": "21121",
+    "Grau": "Comunicació de les Organitzacions",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.406",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11067",
+    "Grau": "Comunicació i Indústries Culturals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.858",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61009",
+    "Grau": "Comunicació i Periodisme Audiovisuals",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "6.953",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21126",
+    "Grau": "Comunicació Interactiva",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.136",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11100",
+    "Grau": "Conservació - Restauració de Béns Culturals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.563",
+    "titulats": "7.600",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61042",
+    "Grau": "Conservació de la Natura / Enginyeria Forestal (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11010",
+    "Grau": "Criminologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.540",
+    "mes25": "5.250",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91050",
+    "Grau": "Criminologia \"ESERP\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21068",
+    "Grau": "Criminologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.764",
+    "mes25": "7.063",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81013",
+    "Grau": "Criminologia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.722",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11088",
+    "Grau": "Criminologia / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.550",
+    "mes25": "5.625",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21108",
+    "Grau": "Criminologia / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.956",
+    "mes25": "6.000",
+    "titulats": "7.410",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81056",
+    "Grau": "Criminologia / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.056",
+    "mes25": "5.000",
+    "titulats": "8.370",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41011",
+    "Grau": "Criminologia i Polítiques Públiques de Prevenció",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "9.356",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41043",
+    "Grau": "Criminologia i Polítiques Públiques de Prevenció / Dret (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.362",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21107",
+    "Grau": "Direcció Hotelera",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81083",
+    "Grau": "Direcció d'Empreses Hoteleres i Gastronòmiques",
+    "Localització de l'estudi": "Sant Pol de Mar",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71085",
+    "Grau": "Direcció i Gestió d'Empreses en l'Àmbit Digital \"ESIC\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11110",
+    "Grau": "Direcció i Gestió Gastronòmica \"Barcelona Culinary Hub\"",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11101",
+    "Grau": "Disseny",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.842",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91007",
+    "Grau": "Disseny \"BAU\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "8.333",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21015",
+    "Grau": "Disseny \"Eina\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61064",
+    "Grau": "Disseny Digital i Tecnologies Creatives",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "9.217",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31121",
+    "Grau": "Disseny Digital i Tecnologies Multimèdia",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "6.082",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31083",
+    "Grau": "Disseny i Desenvolupament de Videojocs (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona / Terrassa",
+    "Universitat": "UPC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81059",
+    "Grau": "Disseny i Desenvolupament de Videojocs",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.736",
+    "mes25": "5.000",
+    "titulats": "8.130",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31074",
+    "Grau": "Disseny i Desenvolupament de Videojocs (Campus Terrassa)",
+    "Localització de l'estudi": "Barcelona / Terrassa",
+    "Universitat": "UPC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11106",
+    "Grau": "Disseny i Desenvolupament de Videojocs i Jocs Aplicats \"ENTI\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91056",
+    "Grau": "Disseny i Innovació \"ELISAVA\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.182",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41045",
+    "Grau": "Disseny i Producció de Videojocs \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41052",
+    "Grau": "Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió i Sistemes d'Informació \"Tecnocampus\" (simultaneïtat)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31122",
+    "Grau": "Disseny",
+    "Localització de l'estudi": " Animació i Art Digital",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "9.360",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11107",
+    "Grau": "Disseny",
+    "Localització de l'estudi": " Animació i Art Digital per a Videojocs i Jocs Aplicats \"ENTI\"",
+    "Universitat": "Barcelona",
+    "PAU": "UB",
+    "mes25": "7.328",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11012",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.900",
+    "mes25": "5.000",
+    "titulats": "7.438",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41013",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.103",
+    "mes25": "5.000",
+    "titulats": "7.130",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91053",
+    "Grau": "Dret \"ESERP\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21086",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.746",
+    "mes25": "6.188",
+    "titulats": "6.850",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81015",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.820",
+    "mes25": "5.000",
+    "titulats": "7.190",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61010",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.766",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71008",
+    "Grau": "Dret",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.536",
+    "mes25": "5.125",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11070",
+    "Grau": "Dret / Gestió i Administració Pública (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.094",
+    "mes25": "6.250",
+    "titulats": "6.830",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21145",
+    "Grau": "Dret / Relacions Internacionals (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "12.886",
+    "mes25": "6.188",
+    "titulats": "6.586",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21109",
+    "Grau": "Dret / Relacions Laborals (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.250",
+    "mes25": "5.000",
+    "titulats": "6.830",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71083",
+    "Grau": "Dret / Relacions Laborals i Recursos Humans (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.745",
+    "mes25": "5.000",
+    "titulats": "6.330",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11103",
+    "Grau": "Economia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.238",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41014",
+    "Grau": "Economia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "10.722",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21070",
+    "Grau": "Economia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.150",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21110",
+    "Grau": "Economia (docència en Anglès)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.527",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81016",
+    "Grau": "Economia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.686",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71009",
+    "Grau": "Economia",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "7.588",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91914",
+    "Grau": "Economia / Estadística (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB / UPC",
+    "PAU": "11.398",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81069",
+    "Grau": "Economia / Filosofia (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.942",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11013",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.064",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21016",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.216",
+    "mes25": "5.000",
+    "titulats": "6.620",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71034",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "el Vendrell",
+    "Universitat": "URV",
+    "PAU": "7.553",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81017",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.320",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61011",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91038",
+    "Grau": "Educació Infantil (Campus Manresa)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.333"
+  },
+  {
+    "codi": "71010",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.206",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71029",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91008",
+    "Grau": "Educació Infantil",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11072",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.343",
+    "mes25": "6.250",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21111",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.260",
+    "mes25": "5.000",
+    "titulats": "6.800",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81049",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.434",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61037",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "9.278",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71050",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.994",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71076",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (simultaneïtat)",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "7.104",
+    "mes25": "5.000",
+    "titulats": "6.540",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91030",
+    "Grau": "Educació Infantil / Educació Primària (pla de millora de la formació inicial de Mestre - 5 anys) (menció en Llengua Anglesa) (simultaneïtat)",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11014",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.442",
+    "mes25": "5.000",
+    "titulats": "7.130",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21018",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.157",
+    "mes25": "5.000",
+    "titulats": "6.030",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21102",
+    "Grau": "Educació Primària (docència en Anglès)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.610",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81018",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.178",
+    "mes25": "5.000",
+    "titulats": "7.600",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61072",
+    "Grau": "Educació Primària (modalitat Bilingüe)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.448",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61073",
+    "Grau": "Educació Primària (modalitat dual)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "8.416",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71011",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "9.040",
+    "mes25": "5.000",
+    "titulats": "6.999",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71033",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "7.128",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91009",
+    "Grau": "Educació Primària",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11015",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.674",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.500"
+  },
+  {
+    "codi": "21019",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.492",
+    "mes25": "5.125",
+    "titulats": "6.450",
+    "mes45": "5.833"
+  },
+  {
+    "codi": "81019",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.718",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.667"
+  },
+  {
+    "codi": "61013",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.788",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71012",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.104",
+    "mes25": "5.000",
+    "titulats": "7.300",
+    "mes45": "5.667"
+  },
+  {
+    "codi": "91010",
+    "Grau": "Educació Social",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21087",
+    "Grau": "Empresa i Tecnologia",
+    "Localització de l'estudi": "Sabadell",
+    "Universitat": "UAB",
+    "PAU": "9.600",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31126",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus 22@) (presencial)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "5.758",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31125",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus 22@) (semipresencial)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31128",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (presencial)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31127",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (semipresencial)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.333"
+    ]
+  },
+  {
+    "codi": "31129",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia / Màrqueting",
+    "Universitat": " Innovació i Tecnologia \"EUNCET\" (Campus 22@) (presencial) (simultaneïtat)",
+    "PAU": "Barcelona",
+    "mes25": "UPC",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000",
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31130",
+    "Grau": "Empresa",
+    "Localització de l'estudi": " Innovació i Tecnologia / Màrqueting",
+    "Universitat": " Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (presencial) (simultaneïtat)",
+    "PAU": "Terrassa",
+    "mes25": "UPC",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000",
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11073",
+    "Grau": "Empresa Internacional (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.683",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61006",
+    "Grau": "Enginyeria Agrària i Alimentària",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "6.210",
+    "mes25": "5.000",
+    "titulats": "5.950",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81032",
+    "Grau": "Enginyeria Agroalimentària",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "6.768",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31004",
+    "Grau": "Enginyeria Alimentària",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "7.232",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.667"
+  },
+  {
+    "codi": "31100",
+    "Grau": "Enginyeria Ambiental",
+    "Localització de l'estudi": "Castelldefels / Barcelona",
+    "Universitat": "UPC",
+    "PAU": "7.425",
+    "mes25": "5.000",
+    "titulats": "6.400",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11059",
+    "Grau": "Enginyeria Biomèdica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "12.500",
+    "mes25": "5.000",
+    "titulats": "8.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41033",
+    "Grau": "Enginyeria Biomèdica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "12.286",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31051",
+    "Grau": "Enginyeria Biomèdica",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "11.838",
+    "mes25": "5.000",
+    "titulats": "8.172",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81063",
+    "Grau": "Enginyeria Biomèdica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.708",
+    "mes25": "5.000",
+    "titulats": "8.160",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71064",
+    "Grau": "Enginyeria Biomèdica",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "10.686",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71070",
+    "Grau": "Enginyeria Biomèdica / Enginyeria de Sistemes i Serveis de Telecomunicacions (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "11.836",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31103",
+    "Grau": "Enginyeria Civil",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "8.528",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31113",
+    "Grau": "Enginyeria Civil",
+    "Localització de l'estudi": " Grau en + Màster universitari en Enginyeria de Camins",
+    "Universitat": " Canals i Ports (PARS: Enginyer/a de Camins",
+    "PAU": " Canals i Ports)",
+    "mes25": "Barcelona",
+    "titulats": "UPC",
+    "mes45": "10.978",
+    "__parsed_extra": [
+      "5.000",
+      "7.270",
+      "5.000"
+    ]
+  },
+  {
+    "codi": "21132",
+    "Grau": "Enginyeria d'Automoció \"EU Salesiana de Sarrià\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "7.030",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31091",
+    "Grau": "Enginyeria d'Automoció (Campus Manresa)",
+    "Localització de l'estudi": "Manresa / Barcelona",
+    "Universitat": "UPC",
+    "PAU": "10.260",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71061",
+    "Grau": "Enginyeria de Bioprocessos Alimentaris",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.802",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31097",
+    "Grau": "Enginyeria de Ciències Agronòmiques",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "6.114",
+    "mes25": "5.000",
+    "titulats": "7.150",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21118",
+    "Grau": "Enginyeria de Dades",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.882",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91057",
+    "Grau": "Enginyeria de Disseny Industrial \"ELISAVA\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31022",
+    "Grau": "Enginyeria de Disseny Industrial i Desenvolupament del Producte",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "10.962",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31006",
+    "Grau": "Enginyeria de Disseny Industrial i Desenvolupament del Producte",
+    "Localització de l'estudi": "Vilanova i la Geltrú",
+    "Universitat": "UPC",
+    "PAU": "8.105",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91051",
+    "Grau": "Enginyeria de l'Automoció",
+    "Localització de l'estudi": "Granollers",
+    "Universitat": "UVic-UCC",
+    "PAU": "6.638",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31052",
+    "Grau": "Enginyeria de l'Energia",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "8.398",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61061",
+    "Grau": "Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica (agrupació)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "6.707",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61075",
+    "Grau": "Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica (agrupació) Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "8.620",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61065",
+    "Grau": "Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "10.944",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11060",
+    "Grau": "Enginyeria de Materials",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.792",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31025",
+    "Grau": "Enginyeria de Materials",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "8.140",
+    "mes25": "5.000",
+    "titulats": "8.100",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31123",
+    "Grau": "Enginyeria de Satèl·lits",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "10.830",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31084",
+    "Grau": "Enginyeria de Sistemes Aeroespacials",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "11.212",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31085",
+    "Grau": "Enginyeria de Sistemes Aeroespacials / Enginyeria de Sistemes de Telecomunicació - Enginyeria Telemàtica (agrupació de simultaneïtat)",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "11.400",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31010",
+    "Grau": "Enginyeria de Sistemes Audiovisuals",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "6.494",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31011",
+    "Grau": "Enginyeria de Sistemes Biològics",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "8.772",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21115",
+    "Grau": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Electrònica de Telecomunicació (agrupació)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.458",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21105",
+    "Grau": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Informàtica (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.498",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31076",
+    "Grau": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica (inclou xarxes i Internet) (agrupació)",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "7.667",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31077",
+    "Grau": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica (inclou xarxes i Internet) (febrer) (agrupació)",
+    "Localització de l'estudi": "Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "6.486",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71042",
+    "Grau": "Enginyeria de Sistemes i Serveis de Telecomunicacions",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.400",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31065",
+    "Grau": "Enginyeria de Sistemes TIC (àmbit d'Informàtica i Comunicacions)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UPC",
+    "PAU": "7.330",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31015",
+    "Grau": "Enginyeria de Tecnologia i Disseny Tèxtil / Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria Química (agrupació)",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "8.146",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31086",
+    "Grau": "Enginyeria de Tecnologies i Serveis de Telecomunicació",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "7.754",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31111",
+    "Grau": "Enginyeria de Tecnologies i Serveis de Telecomunicació",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria de Telecomunicació (PARS: Enginyer/a de Telecomunicació)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "10.214",
+    "titulats": "5.000",
+    "mes45": "5.960",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "41020",
+    "Grau": "Enginyeria de Xarxes de Telecomunicació",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "8.244",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41057",
+    "Grau": "Enginyeria d'Organització Industrial / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica \"Tecnocampus\" (agrupació)",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.732",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.833"
+  },
+  {
+    "codi": "31053",
+    "Grau": "Enginyeria Elèctrica",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "7.944",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81040",
+    "Grau": "Enginyeria Elèctrica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "6.450",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71037",
+    "Grau": "Enginyeria Elèctrica",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "6.332",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81050",
+    "Grau": "Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "6.241",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71058",
+    "Grau": "Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica (simultaneïtat)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "9.042",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31124",
+    "Grau": "Enginyeria Elèctrica i Sistemes Ferroviaris / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica (Agrupació)",
+    "Localització de l'estudi": "Vilanova i la Geltrú",
+    "Universitat": "UPC",
+    "PAU": "7.204",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11017",
+    "Grau": "Enginyeria Electrònica de Telecomunicació",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.660",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31099",
+    "Grau": "Enginyeria Electrònica de Telecomunicació",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "9.523",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21106",
+    "Grau": "Enginyeria Electrònica de Telecomunicació / Enginyeria Informàtica (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.893",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21025",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica \"EU Salesiana de Sarrià\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "6.330",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31054",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "8.538",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81021",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "6.711",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71038",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "6.562",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "21112",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica \"EU Salesiana de Sarrià\" (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "6.924",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31104",
+    "Grau": "Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria Química / Enginyeria de Recursos Minerals i el seu Reciclatge (agrupació)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UPC",
+    "PAU": "7.058",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21127",
+    "Grau": "Enginyeria en Energies Renovables i Eficiència Energètica \"EU Salesiana de Sarrià\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "5.786",
+    "mes25": "5.000",
+    "titulats": "6.810",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31087",
+    "Grau": "Enginyeria en Geoinformació i Geomàtica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "6.698",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41019",
+    "Grau": "Enginyeria en Informàtica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "10.232",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21022",
+    "Grau": "Enginyeria en Organització Industrial \"EU Salesiana de Sarrià\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "6.160",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61060",
+    "Grau": "Enginyeria en Organització Industrial i Logística / Enginyeria Química (agrupació)",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "6.252",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41018",
+    "Grau": "Enginyeria en Sistemes Audiovisuals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "8.036",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31049",
+    "Grau": "Enginyeria en Sistemes i Tecnologia Naval",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "8.550",
+    "mes25": "5.000",
+    "titulats": "6.700",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31112",
+    "Grau": "Enginyeria en Tecnologies Aeroespacials",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria Aeronàutica (PARS: Enginyer/a Aeronàutic/a)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "12.858",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "81041",
+    "Grau": "Enginyeria en Tecnologies Industrials",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.442",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31114",
+    "Grau": "Enginyeria en Tecnologies Industrials",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "9.158",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31115",
+    "Grau": "Enginyeria en Tecnologies Industrials",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "10.416",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31031",
+    "Grau": "Enginyeria en Vehicles Aeroespacials",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "12.574",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31067",
+    "Grau": "Enginyeria Física",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "12.306",
+    "mes25": "5.000",
+    "titulats": "6.422",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61014",
+    "Grau": "Enginyeria Forestal",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11018",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.108",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31059",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "10.410",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21071",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.572",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81042",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.350",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61074",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "7.644",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61015",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.973",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.833"
+  },
+  {
+    "codi": "71039",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.056",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31037",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": "Vilanova i la Geltrú",
+    "Universitat": "UPC",
+    "PAU": "9.075",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31116",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "11.838",
+    "titulats": "6.063",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "61076",
+    "Grau": "Enginyeria Informàtica",
+    "Localització de l'estudi": " Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a)",
+    "Universitat": "Lleida",
+    "PAU": "UdL",
+    "mes25": "7.755",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11016",
+    "Grau": "Enginyeria Informàtica / Matemàtiques (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "12.728",
+    "mes25": "7.688",
+    "titulats": "6.323",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41047",
+    "Grau": "Enginyeria Informàtica de Gestió i Sistemes d'Informació \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "6.796",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41056",
+    "Grau": "Enginyeria Matemàtica en Ciència de Dades",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.526",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71081",
+    "Grau": "Enginyeria Matemàtica i Física",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "11.686",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21026",
+    "Grau": "Enginyeria Mecànica \"EU Salesiana de Sarrià\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "6.946",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31027",
+    "Grau": "Enginyeria Mecànica",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "9.376",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81022",
+    "Grau": "Enginyeria Mecànica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.507",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71040",
+    "Grau": "Enginyeria Mecànica",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.792",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91011",
+    "Grau": "Enginyeria Mectrònica",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.938",
+    "titulats": "5.850",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11019",
+    "Grau": "Enginyeria Química",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.120",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31055",
+    "Grau": "Enginyeria Química",
+    "Localització de l'estudi": "Barcelona / Sant Adrià de Besòs",
+    "Universitat": "UPC",
+    "PAU": "9.042",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21090",
+    "Grau": "Enginyeria Química",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.874",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81023",
+    "Grau": "Enginyeria Química",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.926",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71041",
+    "Grau": "Enginyeria Química",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.408",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "71013",
+    "Grau": "Enologia",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91902",
+    "Grau": "Estadística",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB / UPC",
+    "PAU": "10.550",
+    "mes25": "5.000",
+    "titulats": "7.300",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21128",
+    "Grau": "Estadística Aplicada",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.947",
+    "mes25": "5.688",
+    "titulats": "8.510",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21129",
+    "Grau": "Estadística Aplicada / Sociologia (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.824",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11021",
+    "Grau": "Estudis Anglesos (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "6.078",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21135",
+    "Grau": "Estudis Anglesos",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.093",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61054",
+    "Grau": "Estudis Anglesos",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61051",
+    "Grau": "Estudis Anglesos / Llengües Aplicades i Traducció (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "6.400",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11094",
+    "Grau": "Estudis Àrabs i Hebreus",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "6.400",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21140",
+    "Grau": "Estudis d'Anglès i Català",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21141",
+    "Grau": "Estudis d'Anglès i de Clàssiques",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21142",
+    "Grau": "Estudis d'Anglès i Espanyol",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.882",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21143",
+    "Grau": "Estudis d'Anglès i Francès",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21030",
+    "Grau": "Estudis d'Àsia Oriental -Japonès-",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.170",
+    "mes25": "8.000",
+    "titulats": "6.990",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "21067",
+    "Grau": "Estudis d'Àsia Oriental -Xinès-",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.682",
+    "mes25": "8.563",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21144",
+    "Grau": "Estudis de Català i Espanyol",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "8.600",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21133",
+    "Grau": "Estudis d'Espanyol i Xinès: Llengua",
+    "Localització de l'estudi": " Literatura i Cultura",
+    "Universitat": "Cerdanyola del Vallès",
+    "PAU": "UAB",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "41065",
+    "Grau": "Estudis Globals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.358",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41066",
+    "Grau": "Estudis Globals (Només per a estudiants amb uns estudis de batxillerat o equivalent que NO pertanyin a sistemes educatius de la Unió Europea ni d'altres estats amb acords de reciprocitats)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81084",
+    "Grau": "Estudis Globals / Global Studies (docència en Anglès)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.154",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91062",
+    "Grau": "Estudis Globals / Global Studies (docència en Anglès)",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81085",
+    "Grau": "Estudis Globals / Global Studies (docència en Anglès) / Turisme (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41022",
+    "Grau": "Estudis Internacionals d'Economia i Empresa - International Business Economics (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "12.544",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21148",
+    "Grau": "Estudis Socioculturals de Gènere",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.500"
+  },
+  {
+    "codi": "11023",
+    "Grau": "Estudis Literaris",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.300",
+    "mes25": "5.000",
+    "titulats": "7.800",
+    "mes45": "9.000"
+  },
+  {
+    "codi": "11024",
+    "Grau": "Farmàcia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.216",
+    "mes25": "5.000",
+    "titulats": "7.150",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11075",
+    "Grau": "Farmàcia / Nutrició Humana i Dietètica (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona / Santa Coloma de Gramenet",
+    "Universitat": "UB",
+    "PAU": "11.780",
+    "mes25": "7.813",
+    "titulats": "6.850",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11025",
+    "Grau": "Filologia Catalana",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81070",
+    "Grau": "Filologia Catalana",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21134",
+    "Grau": "Filologia Catalana: Estudis de Literatura i Lingüística",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61055",
+    "Grau": "Filologia Catalana i Estudis Occitans",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81080",
+    "Grau": "Filologia Catalana / Filologia Hispànica (simultaneïtat)",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61058",
+    "Grau": "Filologia Catalana i Estudis Occitans / Llengües Aplicades i Traducció (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11026",
+    "Grau": "Filologia Clàssica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11027",
+    "Grau": "Filologia Hispànica",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.333"
+  },
+  {
+    "codi": "81071",
+    "Grau": "Filologia Hispànica",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61079",
+    "Grau": "Filologia Hispànica",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61080",
+    "Grau": "Filologia Hispànica / Llengües Aplicades i Traducció (simultaneïtat)",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11061",
+    "Grau": "Filosofia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "6.940",
+    "mes45": "7.500"
+  },
+  {
+    "codi": "21032",
+    "Grau": "Filosofia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81072",
+    "Grau": "Filosofia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41042",
+    "Grau": "Filosofia",
+    "Localització de l'estudi": " Política i Economia",
+    "Universitat": "Cerdanyola del Vallès / Barcelona",
+    "PAU": "UPF / UAB",
+    "mes25": "12.260",
+    "titulats": "5.000",
+    "mes45": "9.700",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "71014",
+    "Grau": "Finances i Comptabilitat",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "6.196",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11030",
+    "Grau": "Física",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.716",
+    "mes25": "5.000",
+    "titulats": "7.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21001",
+    "Grau": "Física",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.770",
+    "mes25": "5.000",
+    "titulats": "6.530",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11020",
+    "Grau": "Física / Matemàtiques (simultaneïtat)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "13.192",
+    "mes25": "5.500",
+    "titulats": "8.380",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21005",
+    "Grau": "Física / Matemàtiques (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "13.438",
+    "mes25": "7.938",
+    "titulats": "6.950",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21100",
+    "Grau": "Física / Química (simultaneïtat)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.620",
+    "mes25": "5.000",
+    "titulats": "6.350",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21095",
+    "Grau": "Fisioteràpia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.620",
+    "mes25": "7.000",
+    "titulats": "8.220",
+    "mes45": "7.000"
+  },
+  {
+    "codi": "61019",
+    "Grau": "Fisioteràpia",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "10.117",
+    "mes25": "6.438",
+    "titulats": "8.940",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41055",
+    "Grau": "Fisioteràpia \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "8.240",
+    "mes25": "5.000",
+    "titulats": "7.473",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91041",
+    "Grau": "Fisioteràpia (Campus Manresa)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "7.631",
+    "mes25": "5.000",
+    "titulats": "7.480",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71043",
+    "Grau": "Fisioteràpia",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "9.425",
+    "mes25": "5.594",
+    "titulats": "8.277",
+    "mes45": "5.333"
+  },
+  {
+    "codi": "91918",
+    "Grau": "Fisioteràpia (docència en Anglès)",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UdG / UB",
+    "PAU": "6.516",
+    "mes25": "5.000",
+    "titulats": "8.680",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91919",
+    "Grau": "Fisioteràpia (docència en Anglès)",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UdG / UB",
+    "PAU": "7.445",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81087",
+    "Grau": "Fisioteràpia \"EUSES\"",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "7.787",
+    "mes25": "5.000",
+    "titulats": "7.351",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21033",
+    "Grau": "Fisioteràpia \"Gimbernat\"",
+    "Localització de l'estudi": "Sant Cugat del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.750",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71048",
+    "Grau": "Fisioteràpia",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "7.089",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91012",
+    "Grau": "Fisioteràpia",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "7.689",
+    "mes25": "5.000",
+    "titulats": "7.359",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61044",
+    "Grau": "Fisioteràpia / Infermeria",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.797",
+    "mes25": "5.000",
+    "titulats": "8.158",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61057",
+    "Grau": "Fisioteràpia / Nutrició Humana i Dietètica",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "10.480",
+    "mes25": "6.813",
+    "titulats": "7.730",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21035",
+    "Grau": "Genètica",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.740",
+    "mes25": "5.000",
+    "titulats": "6.210",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "61026",
+    "Grau": "Geografia",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11108",
+    "Grau": "Geografia i Canvi Global",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.146",
+    "mes25": "5.125",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71015",
+    "Grau": "Geografia",
+    "Localització de l'estudi": " Anàlisi Territorial i Sostenibilitat",
+    "Universitat": "Vila-Seca",
+    "PAU": "URV",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "21124",
+    "Grau": "Geografia",
+    "Localització de l'estudi": " Medi Ambient i Planificació Territorial",
+    "Universitat": "Cerdanyola del Vallès",
+    "PAU": "UAB",
+    "mes25": "5.480",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "6.500"
+    ]
+  },
+  {
+    "codi": "81073",
+    "Grau": "Geografia",
+    "Localització de l'estudi": " Territori i Medi Ambient",
+    "Universitat": "Girona",
+    "PAU": "UdG",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11032",
+    "Grau": "Geologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "6.063",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21037",
+    "Grau": "Geologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.553",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21038",
+    "Grau": "Gestió Aeronàutica",
+    "Localització de l'estudi": "Sabadell",
+    "Universitat": "UAB",
+    "PAU": "8.124",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21149",
+    "Grau": "Gestió de Ciutats Intel·ligents i Sostenibles",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.798",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11091",
+    "Grau": "Gestió d'Informació i Documentació Digital",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "6.760",
+    "mes25": "5.000",
+    "titulats": "8.350",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91060",
+    "Grau": "Gestió de la Societat Digital",
+    "Localització de l'estudi": "Campus Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71068",
+    "Grau": "Gestió en Turisme i Hoteleria",
+    "Localització de l'estudi": "Vila-Seca",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11052",
+    "Grau": "Gestió i Administració Pública",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.600",
+    "mes25": "5.000",
+    "titulats": "7.130",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41064",
+    "Grau": "Grau Obert",
+    "Localització de l'estudi": " Programa de",
+    "Universitat": "Barcelona",
+    "PAU": "UPF",
+    "mes25": "10.686",
+    "titulats": "5.000",
+    "mes45": "7.440",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11035",
+    "Grau": "Història",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.500"
+  },
+  {
+    "codi": "21040",
+    "Grau": "Història",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81074",
+    "Grau": "Història",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.313",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61028",
+    "Grau": "Història",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.000"
+  },
+  {
+    "codi": "71077",
+    "Grau": "Història",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.178",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "11104",
+    "Grau": "Història / Història de l'Art",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.812",
+    "mes25": "6.000",
+    "titulats": "5.000",
+    "mes45": "5.667"
+  },
+  {
+    "codi": "81078",
+    "Grau": "Història / Història de l'Art",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.952",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11034",
+    "Grau": "Història de l'Art",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21039",
+    "Grau": "Història de l'Art",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.667"
+  },
+  {
+    "codi": "81075",
+    "Grau": "Història de l'Art",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71078",
+    "Grau": "Història de l'Art i Arqueologia",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "6.500",
+    "titulats": "5.000",
+    "mes45": "5.500"
+  },
+  {
+    "codi": "61081",
+    "Grau": "Història de l'Art i Gestió del Patrimoni Artístic",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21138",
+    "Grau": "Història",
+    "Localització de l'estudi": " Política i Economia Contemporànies",
+    "Universitat": "Cerdanyola del Vallès",
+    "PAU": "UAB",
+    "mes25": "8.873",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "41003",
+    "Grau": "Humanitats",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21101",
+    "Grau": "Humanitats",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11081",
+    "Grau": "Infermeria (Campus Clínic)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "11.976",
+    "mes25": "7.219",
+    "titulats": "8.400",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "21043",
+    "Grau": "Infermeria \"Sant Pau\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UAB",
+    "PAU": "10.248",
+    "mes25": "5.938",
+    "titulats": "7.740",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41021",
+    "Grau": "Infermeria \"Escola Superior d'Infermeria del Mar\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "9.580",
+    "mes25": "5.750",
+    "titulats": "7.100",
+    "mes45": "5.167"
+  },
+  {
+    "codi": "21044",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.982",
+    "mes25": "6.125",
+    "titulats": "7.980",
+    "mes45": "6.333"
+  },
+  {
+    "codi": "71032",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "el Vendrell",
+    "Universitat": "URV",
+    "PAU": "10.754",
+    "mes25": "5.907",
+    "titulats": "8.100",
+    "mes45": "5.833"
+  },
+  {
+    "codi": "81066",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "10.550",
+    "mes25": "6.125",
+    "titulats": "7.790",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "61046",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Igualada",
+    "Universitat": "UdL",
+    "PAU": "10.426",
+    "mes25": "5.250",
+    "titulats": "8.010",
+    "mes45": "8.500"
+  },
+  {
+    "codi": "11037",
+    "Grau": "Infermeria (Campus Bellvitge)",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "11.068",
+    "mes25": "6.719",
+    "titulats": "8.070",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61029",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "11.146",
+    "mes25": "5.063",
+    "titulats": "8.170",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91043",
+    "Grau": "Infermeria (Campus Manresa)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "8.028",
+    "mes25": "5.563",
+    "titulats": "6.370",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41031",
+    "Grau": "Infermeria \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "8.680",
+    "mes25": "5.875",
+    "titulats": "6.860",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11036",
+    "Grau": "Infermeria \"Sant Joan de Déu\"",
+    "Localització de l'estudi": "Esplugues de Llobregat",
+    "Universitat": "UB",
+    "PAU": "9.150",
+    "mes25": "5.875",
+    "titulats": "7.510",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21042",
+    "Grau": "Infermeria \"Gimbernat\"",
+    "Localització de l'estudi": "Sant Cugat del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.847",
+    "mes25": "5.063",
+    "titulats": "6.870",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71016",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "11.278",
+    "mes25": "6.563",
+    "titulats": "8.560",
+    "mes45": "5.833"
+  },
+  {
+    "codi": "21041",
+    "Grau": "Infermeria EUIT de Terrassa",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UAB",
+    "PAU": "8.232",
+    "mes25": "5.375",
+    "titulats": "7.180",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71028",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Tortosa",
+    "Universitat": "URV",
+    "PAU": "10.957",
+    "mes25": "5.375",
+    "titulats": "8.020",
+    "mes45": "5.333"
+  },
+  {
+    "codi": "91013",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "7.930",
+    "mes25": "5.020",
+    "titulats": "6.900",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71084",
+    "Grau": "Infermeria",
+    "Localització de l'estudi": "Vilafranca del Penedès / el Vendrell",
+    "Universitat": "URV",
+    "PAU": "10.481",
+    "mes25": "5.938",
+    "titulats": "7.990",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "21046",
+    "Grau": "Informàtica i Serveis",
+    "Localització de l'estudi": "Sant Cugat del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81058",
+    "Grau": "Innovació i Seguretat Alimentària",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31106",
+    "Grau": "Intel·ligència Artificial",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "11.786",
+    "mes25": "5.000",
+    "titulats": "7.730",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21139",
+    "Grau": "Intel·ligència Artificial / Artificial Intelligence (docència en Anglès)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.510",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "10120",
+    "Grau": "Investigació Privada (títol propi",
+    "Localització de l'estudi": " no oficial)",
+    "Universitat": "Barcelona",
+    "PAU": "UB",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11039",
+    "Grau": "Lingüística",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71072",
+    "Grau": "Llengua i Literatura Catalanes",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.000"
+  },
+  {
+    "codi": "21136",
+    "Grau": "Llengua i Literatura Espanyoles",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71073",
+    "Grau": "Llengua i Literatura Hispàniques",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41023",
+    "Grau": "Llengües Aplicades",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41054",
+    "Grau": "Llengües Aplicades / Traducció i Interpretació -Anglès-",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.730",
+    "mes25": "9.438",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11040",
+    "Grau": "Llengües i Literatures Modernes",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11082",
+    "Grau": "Llengües Romàniques i les seves Literatures",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81064",
+    "Grau": "Logística Empresarial \"Mediterrani\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41048",
+    "Grau": "Logística i Negocis Marítims \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "6.240",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21048",
+    "Grau": "Logopèdia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.918",
+    "mes25": "5.000",
+    "titulats": "7.525",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71062",
+    "Grau": "Màrqueting \"ESIC\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71074",
+    "Grau": "Màrqueting \"ESIC\" (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "URV",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81051",
+    "Grau": "Màrqueting \"Mediterrani\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61078",
+    "Grau": "Màrqueting i Comunicació Digital \"Centre Universitari EAE\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91032",
+    "Grau": "Màrqueting i Comunicació Empresarial",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41039",
+    "Grau": "Màrqueting i Comunitats Digitals \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "6.204",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41062",
+    "Grau": "Màrqueting i Comunitats Digitals / Turisme i Gestió del Lleure \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31132",
+    "Grau": "Màrqueting",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus 22@)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "6.570",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31131",
+    "Grau": "Màrqueting",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus 22@) (semipresencial)",
+    "Universitat": "Barcelona",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31134",
+    "Grau": "Màrqueting",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus Terrassa)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31133",
+    "Grau": "Màrqueting",
+    "Localització de l'estudi": " Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (semipresencial)",
+    "Universitat": "Terrassa",
+    "PAU": "UPC",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "21122",
+    "Grau": "Matemàtica Computacional i Analítica de Dades",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.666",
+    "mes25": "5.000",
+    "titulats": "7.730",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11041",
+    "Grau": "Matemàtiques",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "12.472",
+    "mes25": "7.563",
+    "titulats": "8.410",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31040",
+    "Grau": "Matemàtiques",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "12.816",
+    "mes25": "5.000",
+    "titulats": "7.440",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21003",
+    "Grau": "Matemàtiques",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "12.104",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11043",
+    "Grau": "Medicina (Campus Clínic)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "12.946",
+    "mes25": "6.657",
+    "titulats": "9.570",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41058",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "12.840",
+    "mes25": "6.313",
+    "titulats": "9.690",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21079",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "12.586",
+    "mes25": "5.688",
+    "titulats": "9.320",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81001",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "12.553",
+    "mes25": "5.563",
+    "titulats": "9.320",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11083",
+    "Grau": "Medicina (Campus Bellvitge)",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "12.760",
+    "mes25": "6.563",
+    "titulats": "9.460",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61030",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "12.558",
+    "mes25": "5.313",
+    "titulats": "9.310",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71019",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "12.696",
+    "mes25": "5.813",
+    "titulats": "9.790",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91054",
+    "Grau": "Medicina",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "11.984",
+    "mes25": "5.000",
+    "titulats": "9.140",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21050",
+    "Grau": "Microbiologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.018",
+    "mes25": "5.000",
+    "titulats": "6.800",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41049",
+    "Grau": "Mitjans Audiovisuals \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81079",
+    "Grau": "Moda \"ERAM\"",
+    "Localització de l'estudi": "Girona / Salt",
+    "Universitat": "UdG",
+    "PAU": "5.508",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91029",
+    "Grau": "Multimèdia. Aplicacions i Videojocs",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21051",
+    "Grau": "Musicologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "7.660",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.500"
+  },
+  {
+    "codi": "21150",
+    "Grau": "Nanociència i Nanotecnologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "10.648",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31045",
+    "Grau": "Nàutica i Transport Marítim",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "7.909",
+    "mes25": "7.063",
+    "titulats": "8.050",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11102",
+    "Grau": "Negoci Digital i Innovació en Turisme \"CETT\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11112",
+    "Grau": "Negoci Digital i Innovació en Turisme / Turisme \"CETT\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41024",
+    "Grau": "Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing \"ESCI\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "8.704",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41063",
+    "Grau": "Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing \"ESCI\" (docència en anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "9.466",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61031",
+    "Grau": "Nutrició Humana i Dietètica",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "7.633",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41061",
+    "Grau": "Nutrició Humana i Dietètica \"Tecnocampus\"",
+    "Localització de l'estudi": "Mataró",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71044",
+    "Grau": "Nutrició Humana i Dietètica",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "7.308",
+    "mes25": "5.000",
+    "titulats": "6.980",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81081",
+    "Grau": "Nutrició Humana i Dietètica \"EUSES\"",
+    "Localització de l'estudi": "Salt",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.830",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11062",
+    "Grau": "Nutrició Humana i Dietètica",
+    "Localització de l'estudi": "Santa Coloma de Gramenet",
+    "Universitat": "UB",
+    "PAU": "10.184",
+    "mes25": "5.563",
+    "titulats": "8.300",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91021",
+    "Grau": "Nutrició Humana i Dietètica",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11044",
+    "Grau": "Odontologia",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "12.496",
+    "mes25": "7.250",
+    "titulats": "9.010",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91061",
+    "Grau": "Odontologia (Campus Medicina",
+    "Localització de l'estudi": " Vic)",
+    "Universitat": "Manresa / Vic",
+    "PAU": "UVic-UCC",
+    "mes25": "11.250",
+    "titulats": "5.000",
+    "mes45": "8.512",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "31105",
+    "Grau": "Òptica i Optometria",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UPC",
+    "PAU": "7.787",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31098",
+    "Grau": "Paisatgisme",
+    "Localització de l'estudi": "Barcelona / Castelldefels",
+    "Universitat": "UPC",
+    "PAU": "7.334",
+    "mes25": "5.000",
+    "titulats": "7.020",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11045",
+    "Grau": "Pedagogia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.160",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21052",
+    "Grau": "Pedagogia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.942",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81043",
+    "Grau": "Pedagogia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.138",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "71020",
+    "Grau": "Pedagogia",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.062",
+    "mes25": "5.000",
+    "titulats": "7.600",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41025",
+    "Grau": "Periodisme",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "10.866",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21096",
+    "Grau": "Periodisme",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.718",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71021",
+    "Grau": "Periodisme",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.822",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91014",
+    "Grau": "Periodisme",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71045",
+    "Grau": "Pilot d'Aviació Comercial i Operacions Aèries",
+    "Localització de l'estudi": "Reus",
+    "Universitat": "URV",
+    "PAU": "5.721",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11046",
+    "Grau": "Podologia",
+    "Localització de l'estudi": "L'Hospitalet de Llobregat",
+    "Universitat": "UB",
+    "PAU": "8.513",
+    "mes25": "5.344",
+    "titulats": "8.280",
+    "mes45": "8.000"
+  },
+  {
+    "codi": "91045",
+    "Grau": "Podologia (Campus Manresa)",
+    "Localització de l'estudi": "Manresa",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21054",
+    "Grau": "Prevenció i Seguretat Integral",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21113",
+    "Grau": "Prevenció i Seguretat Integral (en xarxa)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11111",
+    "Grau": "Producció de Música i So per a la Indústria de l'Entreteniment \"ENTI\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.142",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11047",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "10.064",
+    "mes25": "5.938",
+    "titulats": "7.990",
+    "mes45": "6.000"
+  },
+  {
+    "codi": "21081",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.887",
+    "mes25": "5.250",
+    "titulats": "7.400",
+    "mes45": "6.333"
+  },
+  {
+    "codi": "81033",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.785",
+    "mes25": "5.000",
+    "titulats": "7.370",
+    "mes45": "7.667"
+  },
+  {
+    "codi": "61020",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "9.770",
+    "mes25": "5.000",
+    "titulats": "7.200",
+    "mes45": "6.833"
+  },
+  {
+    "codi": "71022",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "9.576",
+    "mes25": "5.563",
+    "titulats": "7.300",
+    "mes45": "7.500"
+  },
+  {
+    "codi": "91022",
+    "Grau": "Psicologia",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "7.979",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41004",
+    "Grau": "Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "11.848",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21097",
+    "Grau": "Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.129",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81002",
+    "Grau": "Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.916",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71023",
+    "Grau": "Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "10.166",
+    "mes25": "5.000",
+    "titulats": "8.030",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91015",
+    "Grau": "Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11093",
+    "Grau": "Publicitat",
+    "Localització de l'estudi": " Relacions Públiques i Màrqueting \"ESRP\"",
+    "Universitat": "Barcelona",
+    "PAU": "UB",
+    "mes25": "8.717",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "11049",
+    "Grau": "Química",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "9.673",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21082",
+    "Grau": "Química",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "9.396",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81034",
+    "Grau": "Química",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "8.326",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71024",
+    "Grau": "Química",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "8.722",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71066",
+    "Grau": "Química (docència en Anglès)",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.859",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21123",
+    "Grau": "Relacions Internacionals",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.592",
+    "mes25": "6.875",
+    "titulats": "6.770",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81050",
+    "Grau": "Relacions Laborals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "8.004",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41050",
+    "Grau": "Relacions Laborals",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "7.563",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21055",
+    "Grau": "Relacions Laborals",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "8.076",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61033",
+    "Grau": "Relacions Laborals i Recursos Humans",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.833"
+  },
+  {
+    "codi": "71082",
+    "Grau": "Relacions Laborals i Recursos Humans",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "7.322",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11076",
+    "Grau": "Seguretat",
+    "Localització de l'estudi": "Mollet del Vallès",
+    "Universitat": "UB",
+    "PAU": "9.080",
+    "mes25": "6.250",
+    "titulats": "5.000",
+    "mes45": "6.167"
+  },
+  {
+    "codi": "11083",
+    "Grau": "Sociologia",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.158",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21065",
+    "Grau": "Sociologia",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.934",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91915",
+    "Grau": "Enginyeria Industrial (PARS: Enginyeria Industrial amb Anàlisi Econòmica) (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC / UPF",
+    "PAU": "12.250",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "31038",
+    "Grau": "Tecnologies Marines",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPC",
+    "PAU": "6.936",
+    "mes25": "5.000",
+    "titulats": "6.820",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21057",
+    "Grau": "Terapia Ocupacional EU IT de Terrassa",
+    "Localització de l'estudi": "Terrassa",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "91016",
+    "Grau": "Terapia Ocupacional (presencial i semipresencial)",
+    "Localització de l'estudi": "Vic",
+    "Universitat": "UVic-UCC",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21058",
+    "Grau": "Traducció i Interpretació -Alemany-",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.375",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41040",
+    "Grau": "Traducció i Interpretació -Alemany / Francès / Llengua de Signes Catalana-",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "41006",
+    "Grau": "Traducció i Interpretació -Anglès-",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UPF",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21064",
+    "Grau": "Traducció i Interpretació -Anglès-",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "6.242",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21065",
+    "Grau": "Traducció i Interpretació -Francès-",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "6.613",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81044",
+    "Grau": "Treball Social",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "7.787",
+    "mes25": "5.000",
+    "titulats": "7.380",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81044",
+    "Grau": "Treball Social",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "7.362",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.333"
+  },
+  {
+    "codi": "61034",
+    "Grau": "Treball Social",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "6.776",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "71026",
+    "Grau": "Treball Social",
+    "Localització de l'estudi": "Tarragona",
+    "Universitat": "URV",
+    "PAU": "6.776",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "7.500"
+  },
+  {
+    "codi": "11011",
+    "Grau": "Turisme \"CETT\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "11086",
+    "Grau": "Turisme \"CETT\" (docència en Anglès)",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81036",
+    "Grau": "Turisme \"Euroauta\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81038",
+    "Grau": "Turisme \"Mediterrani\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21059",
+    "Grau": "Turisme",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21114",
+    "Grau": "Turisme (docència en Anglès)",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81039",
+    "Grau": "Turisme",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "61021",
+    "Grau": "Turisme",
+    "Localització de l'estudi": "Lleida",
+    "Universitat": "UdL",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81076",
+    "Grau": "Turisme / Geografia",
+    "Localització de l'estudi": " Territori i Medi Ambient",
+    "Universitat": "Girona",
+    "PAU": "UdG",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000",
+    "__parsed_extra": [
+      "5.000"
+    ]
+  },
+  {
+    "codi": "81062",
+    "Grau": "Turisme / Marqueting \"Mediterrani\"",
+    "Localització de l'estudi": "Barcelona",
+    "Universitat": "UdG",
+    "PAU": "5.000",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "81077",
+    "Grau": "Turisme / Publicitat i Relacions Públiques",
+    "Localització de l'estudi": "Girona",
+    "Universitat": "UdG",
+    "PAU": "9.660",
+    "mes25": "5.000",
+    "titulats": "5.000",
+    "mes45": "5.000"
+  },
+  {
+    "codi": "21083",
+    "Grau": "Veterinària",
+    "Localització de l'estudi": "Cerdanyola del Vallès",
+    "Universitat": "UAB",
+    "PAU": "11.930",
+    "mes25": "7.563",
+    "titulats": "8.640",
+    "mes45": "5.000"
+  }
+]
